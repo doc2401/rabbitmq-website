@@ -1,0 +1,19 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(globalThis["webpackChunkrabbitmq_website"] = globalThis["webpackChunkrabbitmq_website"] || []).push([["__props---rabbitmq-website-blog-tagsaa-1-5a7"],{
+
+/***/ "./.docusaurus/docusaurus-plugin-content-blog/default/p/rabbitmq-website-blog-tags-eaa.json":
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"security","permalink":"/rabbitmq-website/blog/tags/security","count":3},{"label":"AMQP 1.0","permalink":"/rabbitmq-website/blog/tags/amqp-1-0","count":6},{"label":"Web Messaging","permalink":"/rabbitmq-website/blog/tags/web-messaging","count":10},{"label":"RabbitMQ 4.1","permalink":"/rabbitmq-website/blog/tags/rabbit-mq-4-1","count":5},{"label":"New Features","permalink":"/rabbitmq-website/blog/tags/new-features","count":65},{"label":"Releases","permalink":"/rabbitmq-website/blog/tags/releases","count":7},{"label":"RabbitMQ 4.0","permalink":"/rabbitmq-website/blog/tags/rabbit-mq-4-0","count":9},{"label":"Announcements","permalink":"/rabbitmq-website/blog/tags/announcements","count":10},{"label":"performance","permalink":"/rabbitmq-website/blog/tags/performance","count":28},{"label":"kubernetes","permalink":"/rabbitmq-website/blog/tags/kubernetes","count":5},{"label":"Tanzu RabbitMQ","permalink":"/rabbitmq-website/blog/tags/tanzu-rabbit-mq","count":1},{"label":"RabbitMQ 3.13","permalink":"/rabbitmq-website/blog/tags/rabbit-mq-3-13","count":2},{"label":"Classic Queues","permalink":"/rabbitmq-website/blog/tags/classic-queues","count":1},{"label":"Quorum Queues","permalink":"/rabbitmq-website/blog/tags/quorum-queues","count":2},{"label":"Streams","permalink":"/rabbitmq-website/blog/tags/streams","count":12},{"label":"Technical Deep Dive","permalink":"/rabbitmq-website/blog/tags/technical-deep-dive","count":4},{"label":"packages","permalink":"/rabbitmq-website/blog/tags/packages","count":1},{"label":"RabbitMQ 3.13.x","permalink":"/rabbitmq-website/blog/tags/rabbit-mq-3-13-x","count":7},{"label":"Documentation","permalink":"/rabbitmq-website/blog/tags/documentation","count":1},{"label":"Programming Languages","permalink":"/rabbitmq-website/blog/tags/programming-languages","count":16},{"label":"MQTT","permalink":"/rabbitmq-website/blog/tags/mqtt","count":2},{"label":"HowTo","permalink":"/rabbitmq-website/blog/tags/how-to","count":18},{"label":"Updates","permalink":"/rabbitmq-website/blog/tags/updates","count":27},{"label":"Resiliency","permalink":"/rabbitmq-website/blog/tags/resiliency","count":2},{"label":"Erlang","permalink":"/rabbitmq-website/blog/tags/erlang","count":1},{"label":"Introductory","permalink":"/rabbitmq-website/blog/tags/introductory","count":6},{"label":"Cloud","permalink":"/rabbitmq-website/blog/tags/cloud","count":3},{"label":"DIY","permalink":"/rabbitmq-website/blog/tags/diy","count":1},{"label":"Capacity Planning","permalink":"/rabbitmq-website/blog/tags/capacity-planning","count":5},{"label":"Case Studies","permalink":"/rabbitmq-website/blog/tags/case-studies","count":1},{"label":"Talks and Conferences","permalink":"/rabbitmq-website/blog/tags/talks-and-conferences","count":3},{"label":"Hasenwerkstatt","permalink":"/rabbitmq-website/blog/tags/hasenwerkstatt","count":3},{"label":"Blueprints","permalink":"/rabbitmq-website/blog/tags/blueprints","count":1}]}');
+
+/***/ })
+
+}]);
